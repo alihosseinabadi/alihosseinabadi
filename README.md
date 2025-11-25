@@ -1,4 +1,4 @@
-<h1 align="center">👋 Ali Hosseinabadi</h1>
+<h1 align="center"> Ali Hosseinabadi</h1>
 <h3 align="center">Data Scientist | ML Engineer</h3>
 
 **Building end-to-end machine learning solutions** with expertise in Python, Scikit-learn, and production deployment.
